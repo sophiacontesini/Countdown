@@ -1,5 +1,11 @@
 # Projeto Countdown
 
+![Captura de Tela 2023-08-22 às 17 37 23](https://github.com/sophiacontesini/Countdown/assets/94463723/0d897086-9343-4064-8456-679ef73e11ef)
+
+![Captura de Tela 2023-08-22 às 17 34 49 1](https://github.com/sophiacontesini/Countdown/assets/94463723/25316c57-7e8d-4744-9dcd-e2ff782573ed)
+
+
+
 ### Visão Geral
 O Projeto Countdown é uma aplicação desenvolvida usando React, Vite e JavaScript. 
 Essa aplicação permite que os usuários criem contagens regressivas para eventos importantes, fornecendo a data, título e foto do evento desejado.
